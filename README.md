@@ -1,6 +1,5 @@
-## Kidverse Dashboard (iOS, Android)
-### React Native, Expo
-
+## Kidverse dashboard application 
+### React Native, Expo (iOS, Android)
 
 ### Запуск:
 - `npm install` - устанавливаем зависимости
